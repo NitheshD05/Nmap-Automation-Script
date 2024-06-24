@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ````
 
 ### Usage
-Running the Script
+Running the Script \n
 Run the script with Python 3.x, providing the target IP address or hostname:
 
 ````bash
