@@ -4,8 +4,7 @@ Streamline network reconnaissance with this advanced Nmap automation script. Per
 
 ## Installation
 
-### Clone the Repository
-Clone the repository using Git:
+### Clone the repository using Git:
 
 ```bash
 git clone https://github.com/NitheshD05/Nmap-Automation-Script.git
