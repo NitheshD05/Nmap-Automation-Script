@@ -8,6 +8,6 @@ Streamline network reconnaissance with this advanced Nmap automation script. Per
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/your-username/Nmap-Automation-Script.git
+git clone https://github.com/NitheshD05/Nmap-Automation-Script.git
 cd Nmap-Automation-Script
 
