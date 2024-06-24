@@ -28,7 +28,7 @@ python3 nmap.py 10.10.10.10
 ````
 This command initiates an intense scan sequence, including Default Scan, Service and Script Scan, and All Port Scan. It then performs a Script and Service scan specifically for newly identified ports from the All Port Scan.  
 
-###Options and Examples
+### Options and Examples
 The script supports various options to customize scans:
 
 ````bash
