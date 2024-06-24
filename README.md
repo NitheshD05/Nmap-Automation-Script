@@ -20,8 +20,7 @@ pip install -r requirements.txt
 ````
 
 ### Usage
-Running the Script \n
-Run the script with Python 3.x, providing the target IP address or hostname:
+ Run the script with Python 3.x, providing the target IP address or hostname:
 
 ````bash
 python3 nmap.py 10.10.10.10
